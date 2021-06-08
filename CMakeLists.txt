@@ -10,4 +10,3 @@ set(lib_dest "lib")
 set(include_dest "include/")
 
 add_subdirectory(src)
-add_subdirectory(test)
