@@ -7,6 +7,7 @@
 #include <cmath>
 #include <thread>
 #include <iostream>
+#include <atomic>
 
 struct customer{
     std::size_t num_of_products;
